@@ -1,9 +1,9 @@
-# Generic RK3576 Image for Radxa product
+# Generic RK3576 Image for Radxa products
 [![Build image for Release channel](https://github.com/radxa-build/radxa-rk3576/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-build/radxa-rk3576/actions/workflows/build.yaml) [![Build image for Test channel](https://github.com/radxa-build/radxa-rk3576/actions/workflows/test.yaml/badge.svg)](https://github.com/radxa-build/radxa-rk3576/actions/workflows/test.yaml)
 
 ## What is this?
 
-This repo is the central location for Radxa-built system images for Generic RK3576 Image for Radxa product.
+This repo is the central location for Radxa-built system images for Generic RK3576 Image for Radxa products.
 
 ## Which image should I use?
 
